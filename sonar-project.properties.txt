@@ -1,0 +1,22 @@
+# metadados requeridos
+
+sonar.projectKey=SistemaBancario
+
+sonar.projectName=SistemaBancario
+
+sonar.projectVersion=0.1
+
+# caminhos para os códigos fontes
+
+# caminhos podem ser separados por vírgula
+
+sonar.sources=C:\Users\Teles\workspace\SistemaBancario\src\br\com\clientes,C:\Users\Teles\workspace\SistemaBancario\src\br\com\contas,C:\Users\Teles\workspace\SistemaBancario\src\br\com\enums,C:\Users\Teles\workspace\SistemaBancario\src\br\com\funcionarios,C:\Users\Teles\workspace\SistemaBancario\src\br\com\interfaces
+sonar.tests=src/main/test
+
+# A linguagem do projeto
+
+sonar.language=java
+
+# Formato
+
+sonar.sourceEncoding=UTF-8
